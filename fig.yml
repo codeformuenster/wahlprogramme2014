@@ -1,0 +1,14 @@
+parser:
+  build: .
+  links:
+    - elasticsearch
+  volumes:
+    - parser.rb:/var/www/wahlprogramme/parser.rb
+elasticsearch:
+  image: webwurst/elk-aio-base
+  ports:
+    - 8000:8000
+    - 80:80
+    - 443:443
+    - 9300:9300
+    - 9200:9200
