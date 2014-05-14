@@ -1,4 +1,4 @@
-# Parteiname
+# Wahlprogramm Wahljahr Parteiname
 
 Ziel ist es die Wahlprogramme nach [Markdown](http://daringfireball.net/projects/markdown/syntax) zu überführen. Dadurch sind die Programme
 
