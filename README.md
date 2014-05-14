@@ -13,10 +13,13 @@ Install docker and fig.
 
 ## Run
 
-Build container & start elasticsearch:
+Start elasticsearch:
 
-    sudo fig up -d
+    sudo fig up -d elasticsearch
 
 Then let the parser do its work:
 
     cat CDU/Kommunalwahlprogramm_2014_markup_utf8.txt | sudo fig run parser CDU
+
+This will take some time at the first run, as the docker image for the
+parser will be built first.
