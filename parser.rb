@@ -3,8 +3,6 @@ require 'bundler/setup'
 require 'elasticsearch'
 
 INDEX_NAME = 'agenda_with_chapters'
-puts "connected"
-
 
 party = ARGV[0]
 raise "Please give party name as an argument" if party.nil?
@@ -28,7 +26,7 @@ end
 
 if client.indices.exists index: INDEX_NAME
   puts "Deleting all #{party} chapters from Elasticsearch"
-  client.delete_by_query index: INDEX_NAME, type: 'chapter', body: { party: party }
+  client.delete_by_query index: INDEX_NAME, type: 'chapter', q: "party:#{party}"
 end
 
 puts "Adding #{chapters.size} chapters to Elasticsearch"
