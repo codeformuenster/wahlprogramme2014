@@ -7,7 +7,7 @@ Install docker and fig.
 ## Convert pdfs
 
 - Try http://www.pdf2txt.de/
-- See [zielformat.txt](zielformat.txt) for hint how to tweak the formatting
+- See [zielformat.md](zielformat.md) for hint how to tweak the formatting
 
 ## Run
 
