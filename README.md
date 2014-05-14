@@ -4,6 +4,10 @@ Parse a party's agenda into elasticsearch.
 
 Install docker and fig.
 
+## Convert pdfs
+
+See [Zielformat.txt](zielformat.txt)
+
 ## Run
 
 Build container & start elasticsearch:
