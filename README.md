@@ -19,7 +19,8 @@ Start elasticsearch:
 
 Then let the parser do its work:
 
-    cat CDU/Kommunalwahlprogramm_2014_markup_utf8.txt | sudo fig run parser CDU
+    sudo fig up parser
 
-This will take some time at the first run, as the docker image for the
-parser will be built first.
+This will import all files from the `converted` folder into elasticsearch.
+
+Note: The docker image for the parser will be built on the first run. This will take some time.

@@ -3,7 +3,7 @@ parser:
   links:
     - elasticsearch
   volumes:
-    - parser.rb:/var/www/wahlprogramme/parser.rb
+    - .:/var/www/wahlprogramme
 elasticsearch:
   image: webwurst/elk-aio-base
   ports:

@@ -14,4 +14,4 @@ RUN bundle -j 4
 
 ADD parser.rb /var/www/wahlprogramme/
 
-ENTRYPOINT ["ruby", "/var/www/wahlprogramme/parser.rb"]
+CMD ["ruby", "/var/www/wahlprogramme/parser.rb"]
