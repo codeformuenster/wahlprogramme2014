@@ -1,4 +1,4 @@
-# encoding: utf-8
+#!/usr/bin/env ruby
 require 'bundler/setup'
 require 'elasticsearch'
 
@@ -6,7 +6,7 @@ CONVERTED_DIR = File.join(File.expand_path('..', __FILE__), 'converted')
 INDEX_NAME = 'agenda_with_chapters'
 
 client = Elasticsearch::Client.new hosts: [
-  { host: ENV['ELASTICSEARCH_1_PORT_9200_TCP_ADDR'], port: ENV['ELASTICSEARCH_1_PORT_9200_TCP_PORT'] }
+  { host: ENV['ELASTICSEARCH_1_PORT_9200_TCP_ADDR'] || 'localhost', port: ENV['ELASTICSEARCH_1_PORT_9200_TCP_PORT'] || 9100 }
 ]
 
 Dir.foreach(CONVERTED_DIR) do |file|

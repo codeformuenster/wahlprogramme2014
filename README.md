@@ -13,6 +13,20 @@ Install docker and fig.
 
 ## Run
 
+### the old-school way
+
+* Install & run Elasticsearch
+* Install Ruby (>= 1.9)
+* Run `bundle install`
+
+Then let the parser do its work:
+
+    ./parser.rb
+
+This will import all files from the `converted` folder into elasticsearch.
+
+### via Docker
+
 Start elasticsearch:
 
     sudo fig up -d elasticsearch
