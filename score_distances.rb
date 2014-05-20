@@ -13,7 +13,7 @@ class DistanceMatrix
   end
 
   def query_mlt(chapter_id)
-   @client.mlt index: INDEX_NAME, type: 'chapter', id: chapter_id, mlt_fields: 'text'
+    @client.mlt index: INDEX_NAME, type: 'chapter', id: chapter_id, mlt_fields: 'text', search_size: 10000
   end
 
   def distance_score_for_chapter(id)
