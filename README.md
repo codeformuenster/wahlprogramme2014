@@ -38,3 +38,12 @@ Then let the parser do its work:
 This will import all files from the `converted` folder into elasticsearch.
 
 Note: The docker image for the parser will be built on the first run. This will take some time.
+
+
+## Generate JSON for the Wahlprogramm-Matrix
+
+## Generate agendas
+
+    ruby agendas.rb | json_reformat >json/agendas.json
+
+(To run via Docker, just put `sudo fig run parser` in front of that.)
