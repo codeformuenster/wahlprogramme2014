@@ -9,6 +9,7 @@ client = Elasticsearch::Client.new hosts: [
   { host: ENV['ELASTICSEARCH_1_PORT_9200_TCP_ADDR'] || 'localhost', port: ENV['ELASTICSEARCH_1_PORT_9200_TCP_PORT'] || 9100 }
 ]
 
+id = 1
 Dir.foreach(CONVERTED_DIR) do |file|
   next if file[0] == '.'
 
@@ -36,8 +37,9 @@ Dir.foreach(CONVERTED_DIR) do |file|
   puts "Adding #{chapters.size} #{party} chapters to Elasticsearch"
 
   chapters.each_with_index do |(title, text), i|
-    puts "chapter #{i+1}: #{title}"
-    client.index index: INDEX_NAME, type: 'chapter', body: { party: party, position: i+1, title: title, text: text }
+    puts "ID #{id} chapter #{i+1}: #{title}"
+    client.index index: INDEX_NAME, type: 'chapter', id: id, body: { party: party, position: i+1, title: title, text: text }
+    id += 1
   end
 end
 
