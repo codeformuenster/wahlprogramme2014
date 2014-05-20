@@ -1,135 +1,5 @@
-Wahlprogramm der Piratenpartei Münster
-zur Kommunalwahl 2014
+# Wir stehen für Veränderung
 
-
-Übersicht
-Wir stehen für Veränderung 6
-
-
-Kommunale Selbstverwaltung 2.8 11
-
-Bürger infomieren und beteiligen
-
-Bürger im Rat durch mehr Öffentlichkeit beteiligen 13
-Rats-TV  Zuschauen was passiert! 14
-Ein Ratsinformationssystem für die Bürger 15
-Open Data heißt freier Zugang zu Informationen 15
-Ein neuer Ausschuss zum Mitmachen auf Augenhöhe 19
-Der Bürgerhaushalt muss gestärkt werden 20
-Münsteraner bei Planungen einbeziehen 21
-Kinder und Jugendliche besser beteiligen 21
-Bürgerentscheide bedeuten Vertrauen in Menschen 22
-
-Techniken des 21. Jhs. für Münster nutzen
-
-Freie Software gegen Kosten und Abhängigkeit 24
-Creative Commons 25
-Green IT 25
-Tele-Arbeit fördert Familie & Beruf 25
-
-Meine Daten gehören mir!
-Datenschutz und Datensparsamkeit 26
-Persönliche Daten sollen persönlich bleiben 26
-Verständliche Formulare auf dem Amt 27
-
-Die Stadt als Partner für Arbeit
-
-1. Pflicht einer Optionskommune: Helfen! 27
-Vertrauen und Erfolg durch Kompetenz 28
-Jugend-Arbeitslosigkeit 28
-Sichere Jobs sind unbefristet 29
-Lohngerechtigkeit 29
-Ratsmitglieder vor Interessens-Konfl ikten schützen! 29
-
-Kommunale Finanzen
-
-Sichere Kommunal-Einnnahmen bei minimaler Belastung 30
-Kredite und Haushalt 30
-
-
-Kultur & Bildung 31
-Von klein auf unterstützen und begleiten  
-Kinder & Jugend 32
-Kita-Navigator 32
-Eltern-Initiativen 33
-Kita-Trägeranteile 33
-Bildungsinvestitionen 34
-Open Educational Resources 35
-Sprachförderung 35
-Schulsozialarbeit 35
-Musikalische Bildung 35
-Schulverpflegung  mit Maß und Sinn 36
-Schulen in Münster 36
-PTA-Lehranstalt 37
-
-Gemeinsam Münster gestalten
-
-Akzeptanz sexueller Vielfalt 37
-UN-Behindertenrechtskonvention 38
-Inklusion 38
-Ausbau der Inklusion 39
-Inklusion im Job 39
-Münster braucht keine Barrieren 39
-Kommunales Integrationszentrum 40
-Migration 40
-Flüchtlingsunterbringung 40
-
-Erfahrung nutzen  Senioren mehr einbinden
-
-Generationenzentren 41
-Gesellschaftliche Veränderungen einplanen! 41
-Miteinander  Füreinander! 42
-
-Kultur kommt von gemeinsam!
-
-Stadtfeste 42
-Allwetterzoo Münster 43
-Künstlerszene ist Kulturszene 44
-Repair Cafés 44
-Bücherboxen 45
-Sport in Münster 45
-Regionale Entwicklung 46
-
-Bauen, Wohnen, Leben und Gestalten
-
-Neue Wohnfl ächen 48
-Preisgünstiger Wohnraum 48
-Soziale Erhaltungssatzung 48
-Umbau des Hauptbahnhofs 49
-Hafenforum 49
-Oxford Kaserne 50
-Shared Space 50
-
-Straßenverkehr => Gemeinsam vorwärts kommen
-
-Elektromobilität 51
-ÖPNV 51
-Möglichkeiten sichern  Wege freihalten 52
-Fließender Verkehr 52
-Stop & Go vermeiden 53
-Mit dem Rad unterwegs 53
-Mobil in die Zukunft  Alle Optionen nutzen! 54
-LED-Straßenbeleuchtung 55
-Freier Internetfunk 55
-
-Um-Welt bedeutet mitten drin sein
-
-Grüne Flächen mit Konzept 56
-Energieautarke Stadt 57
-Kein Fracking! 58
-Solarenergie 58
-Windenergie 59
-
-Keine Gesellschaft ohne Vertrauen
-
-Vertrauen statt Überwachung 59
-Staatliches Gewaltmonopol erhalten! 59
-Erklären statt verbieten 60
-Die Marke Münsterland stärken 60
-
-
-
-Wir stehen für Veränderung
 Wir PIRATEN machen bereits seit fünf Jahren Tempo im Rat der
 Stadt Münster. Wir haben für Veränderungen gesorgt und die
 Ratspolitik mitgestaltet. Die etablierten Parteien haben behauptet,
@@ -206,14 +76,11 @@ Wir setzen uns ein FÜR:
  Bei Ratsentscheidungen möglichst die münsterschen Einwohner direkt beteiligen. Zugang zu Informationen und politischen Prozessen offener gestalten.
  Möglichkeiten der digitalen Medien nutzen, ohne dabei Gruppen auszugrenzen.
 
-
 Wir PIRATEN haben Visionen für Münster 2020 und wollen sie mit allen Menschen in dieser Stadt weiterentwickeln und umsetzen.
-
 Klarmachen zum Ändern!
 
 
-
-Kommunale Selbstverwaltung 2.8
+## Kommunale Selbstverwaltung 2.8
 
 Was ist Selbstverwaltung / Politik 2.8? Unter diesem Schlagwort verstehen wir die Förderung aller Strukturen, die zu einer Verbesserung der Demokratie führen, 
 im Besonderen diejenigen, die sich durch die Möglichkeiten des digitalen Zeitalters ergeben. 
@@ -244,9 +111,7 @@ Sein Gebrauch soll zugleich dem Wohle der Allgemeinheit dienen. (Artikel 14, A
 wirtschaftspolitisches Leitbild mit dem Ziel, wirtschaftliche Leistung und freie Initiative, die dem gemeinsamen sozialen Fortschritt dient, zu fördern. 
 Freiheit und soziales Denken gehören für uns untrennbar zusammen.
 
-
-Bürger informieren und Beteiligen
-
+## Bürger informieren und Beteiligen
 
 Bürger im Rat durch Mehr Öffentlichkeit beteiligen
 
@@ -256,7 +121,6 @@ Möglichkeiten an, um Transparenz & Bürgerbeteiligung zu verbessern. In der Wah
 gelöst und nur die Konfliktlösungen kommuniziert. 
 
 Die Öffentlichkeit der Sitzungen kommunaler Vertretungen ist einer der wichtigsten Grundsätze unserer demokratisch verfassten Staatsordnung. 
-
 Der Termin, die begrenzte Anzahl an Sitzplätzen für Zuschauende und körperliche Beeinträchtigungen machen es zahlreichen Menschen in Münster unmöglich, 
 Sitzungen zu besuchen und den politischen Meinungs- und Willensbildungsprozess mitzuverfolgen.
 
@@ -265,7 +129,6 @@ der Diskussions- und Meinungsbildungsprozess nicht dargestellt werden. Bisher be
 des Rates der Stadt und seiner Ausschüsse nachträglich und gefiltert zu verfolgen. 
 
 Durch die Öffentlichkeit der Sitzung soll allen Bürgerinnen und Bürgern die Möglichkeit gegeben werden, die Arbeit der gewählten Volksvertretung zu verfolgen. 
-
 Durch die Möglichkeit, die Sitzungen öffentlich zu verfolgen, soll das allgemeine Interesse an der kommunalen Selbstverwaltung geweckt und gefördert werden. 
 Die Menschen in Münster werden so befähigt, das Verhalten der Fraktionen und der Ratsmitglieder zu bewerten und hieraus die politischen Konsequenzen zu ziehen. 
 Zudem dient die Öffentlichkeit der Ratssitzungen auch der Kontrolle der Ratsmitglieder durch die Bürgerschaft.
@@ -277,8 +140,7 @@ Als moderne Mitwirkungsmöglichkeit sollten die Einwohner über das Internet die
 und sich durch Fragen und Anmerkungen einbringen zu können.
 
 
-
-Rats-TV    Zuschauen was passiert!
+## Rats-TV    Zuschauen was passiert!
 
 Die öffentlichen Sitzungen des Rates der Stadt Münster sollen zukünftig als Audio- und Videoaufnahmen auf der Inter-netseite der Stadt Münster an prominenter Stelle 
 zur Verfügung zu stehen.
@@ -294,8 +156,7 @@ in Betracht. Durch ein Bürgerprojekt kann die Ratssitzung journalistisch vorber
 geweckt werden.
 
 
-
-Ein Ratsinformationssystem für die Bürger
+## Ein Ratsinformationssystem für die Bürger
 
 Wir wünschen uns ein Ratsinformationssystem, das nicht nur verwaltungsseitig genutzt wird, sondern das in erster Linie für den Bürger konzipiert ist. Es soll sich an 
 den Prinzipien Open Data und Open Government orientieren.
@@ -304,8 +165,7 @@ Der Einstieg in die papierlose Ratsarbeit soll unserer Ansicht nach nicht mi
 grundsätzlich den Open Source-Gedanken umgesetzt sehen.
 
 
-
-Open Data heißt freier Zugang zu Informationen
+## Open Data heißt freier Zugang zu Informationen
 
 Wir setzen uns dafür ein, dass die Verwaltung das Prinzip Open Data verinnerlicht und umsetzt. Offene Daten sind alle nicht personenbezogenen Daten, die im 
 Interesse der Allgemeinheit frei zugänglich gemacht werden und ohne Einschränkung genutzt werden können.
@@ -323,7 +183,6 @@ hat einen direkten gesellschaftlichen Nutzen. Das Potenzial für Innovationen un
  Visualisierung und bessere Verknüpfungsmöglichkeiten von Datensätzen, zum Beispiel durch die Wissenschaft, ermöglichen besser fundierte politische Entscheidungen, 
   bessere Vergleichsmöglichkeiten und eine einfachere Wirksamkeitsmessung verschiedener Maßnahmen.
  Die Öffnung der Daten kann zu Wirtschaftswachstum und Schaffung neuer Arbeitsplätze beitragen.
-
 
 Als Kriterien für offene Daten gelten die zehn Open-Government-Prinzipien:
 
@@ -350,7 +209,6 @@ einbetten lässt, um möglichst kostengünstig die Vorteile von Open Data be
 Deutschland, soll ausgebaut werden.
 
 Darüber hinaus soll auch geprüft werden, inwiefern Bürger diese Daten auch ohne Internetzugang unbeschwert erhalten können.
-
 Des Weiteren fordern wir die Verwaltung auf, dass sie auf Landes-, Bundes- und Europa-Ebene Fördermittel für Open Data-Portale sowie für die Digitalisierung 
 von Kulturgütern beantragt.
 
@@ -363,8 +221,7 @@ Offene Daten und Webanwendungen verschiedenster Art können dabei helfen, eine K
   Verwaltung mit Nachdruck voranzutreiben.
 
 
-
-Ein Neuer Ausschuss zum Mitmachen auf Augenhöhe
+## Ein Neuer Ausschuss zum Mitmachen auf Augenhöhe
 
 Wir plädieren dafür, einen Rats-Ausschuss für Verwaltung, Informationsfreiheit und bürgerschaftliches Engagement einzurichten.
 
@@ -384,8 +241,7 @@ zu bestimmen, soweit keine gesetzlichen Einschränkungen zugelassen sind (inform
 der Einwohner zu den Informationen über die Tätigkeit der öffentlichen Verwaltung. Sie ist eng mit dem Grundrecht auf informationelle Selbstbestimmung verknüpft.
 
 
-
-Der Bürgerhaushalt muss gestärkt werden
+## Der Bürgerhaushalt muss gestärkt werden
 
 Wir als Piratenpartei Münster setzen uns für die alljährliche Durchführung des Beteiligungsverfahrens Bürgerhaushalt ein.
 Der Bürgerhaushalt ist eines von vielen Mitteln gegen Politikverdrossenheit und für mehr Bürgerbeteiligung. Der Beirat zum Bürgerhaushalt und das Verfahren sollen 
@@ -394,8 +250,7 @@ den Haushalt der Stadt Münster. Seit seiner Einführung stärkt er die Verbunde
 am städtischen Haushalt.
 
 
-
-Münsteraner bei Planungen einbeziehen
+## Münsteraner bei Planungen einbeziehen
 
 Die Einwohner müssen früher als bisher üblich in die Planung von Projekten eingebunden werden. Besonders bei öffentlichen Bauvorhaben wird die breite Öffentlichkeit 
 oft erst in den wenigen Wochen der Einspruchsfrist im Planfeststellungsverfahren mehr oder weniger umfassend informiert.
@@ -404,13 +259,12 @@ Wir fordern seitens der Verwaltungen die aktive Bürgereinbindung bereits zu Beg
 können.
 
 
-
-Kinder und Jugendliche  besser beteiligen
+## Kinder und Jugendliche  besser beteiligen
 
 Wir wollen bestehende Beteiligungsmöglichkeiten von Kindern und Jugendlichen verfestigen, ausweiten und pädagogisch begleiten. Das betrifft unter anderem die Gestaltung 
 von Freizeitangeboten, die kommunale Schulentwicklungsplanung sowie die Mitsprache in den städtischen Gremien. 
 
-Wir wollen die Jugend in Münster nachhaltig und ernsthaft beteiligen.
+## Wir wollen die Jugend in Münster nachhaltig und ernsthaft beteiligen.
 
 Ernsthaft bedeutet für uns Piraten: Eine verantwortliche Beteiligung der Betroffenen an der Verfügungsgewalt über ihre Gegenwart und Zukunft. Punktuell soll versucht 
 werden Selbstbestimmung zu erreichen. Jugendpolitische Beteiligung darf alle Politikbereiche diskutieren.
@@ -426,8 +280,7 @@ der Verfahren beteiligt werden. Formalismus und Bürokratie sollten vermieden we
 Spaß am Tun gefördert wird.
 
 
-
-Bürgerentscheide bedeuten Vertrauen in Menschen
+## Bürgerentscheide bedeuten Vertrauen in Menschen
 
 Wir vertrauen den Münsteranern und wollen ihnen mehr Möglichkeiten geben, Zukunftsfragen mündig zu entscheiden. Daher wollen wir im neuen Rat eine Mehrheit für 
 regelmäßig stattfindende Ratsbürgerentscheide organisieren.
@@ -442,13 +295,11 @@ An die Landesregierung appellieren wir, die Gemeindeordnung zu ändern, sodass i
 ein Planungsentwurf mit der größten Zustimmung von der Bürgerschaft favorisiert werden kann.
 
 Selbst bei umstrittenen Projekten wird die Möglichkeit von Bürgerbegehren und -entscheiden nur selten genutzt.
-
 Wir setzen uns mit der Piratenfraktion im Landtag dafür ein, die Hürden für Bürgerentscheide zu senken.
 Wir fordern, dass die Zulässigkeitsprüfungen für Bürgerbegehren durch den Rat vor dem Sammeln der Unterschriften erfolgt.
 
 Die Stadträte selbst sollen bei wesentlichen Projekten zum Mittel des Bürgerentscheids greifen. Nach Offenlegung aller vorhandenen Informationen sollen Bürger damit 
 aktiv und verbindlich mitbestimmen können.
-
 
 Wir wollen die Einwohner der Stadt Münster in eine nachhaltige Stadtentwicklung mit einbinden.
 
@@ -472,9 +323,7 @@ In den nächsten sechs Jahren werden wir zur Entwicklung in allen 45 münstersch
 einbeziehen.
 
 
-
-Techniken des 21. Jhs. für Münster nutzen
-
+## Techniken des 21. Jhs. für Münster nutzen
 
 Freie Software gegen Kosten und Abhängigkeit
 
@@ -482,21 +331,18 @@ Wir fordern die konsequente Nutzung von freier Software in der Verwaltung. Unter
 beliebige Art genutzt und verändert werden dürfen. Die Nutzung solcher Programme reduziert die Anschaffungs- und Betriebskosten.
 
 
-
-Creative commons
+## Creative commons
 
 Die Stadt Münster soll eine Vorbildfunktion einnehmen, indem sie freie Lizenzen unterstützt, z. B. kann Creative Commons die Kreativität in Wissenschaft, Kunst und 
 Kultur anregen.
 
 
-
-Green IT
+## Green IT
 
 Es soll ein Gesamtkonzept für Green IT in der Verwaltung entwickelt werden.
 
 
-
-Tele-Arbeit fördert Familie & Beruf
+## Tele-Arbeit fördert Familie & Beruf
 
 Wir begrüßen die Umsetzung der freiwilligen alternierenden Telearbeit in der Stadtverwaltung als einen Baustein zur besseren Vereinbarkeit von Familie und Beruf. 
 Telearbeit kann zu einer Steigerung der Wirtschaftlichkeit städtisch genutzter Büroflächen führen.
@@ -514,9 +360,7 @@ Kundenakten und zur Datensicherheit von IT-Infrastrukturen unbedingt zu beachten
 
 
 
-
-Meine Daten gehören mir!
-
+## Meine Daten gehören mir!
 
 Datenschutz und Datensparsamkeit
 
@@ -531,26 +375,20 @@ Die Stadt Münster muss es als ihre Aufgabe ansehen, die Daten ihrer Einwohner s
 Weitergabe von Meldedaten soll in Münster soweit unterbunden werden, wie es gesetzlich zulässig ist.
 
 
-
-Persönliche Daten sollen persönlich bleiben
+## Persönliche Daten sollen persönlich bleiben
 
 Einwohnermeldeämter können Daten an verschiedenste Einrichtungen gegen Geld weitergeben. Wir fordern, dass die Kommune dies freiwillig unterlässt. Bis zu einer Änderung 
 des Meldegesetzes sollte die Kommune die Einwohner aktiv auf die Möglichkeit des Widerspruchs hinweisen.
 
 Wir selbst werden auf die Möglichkeit der Datenabfrage bei den Meldeämtern verzichten.
 
-
-
-Verständliche Formulare auf dem Amt
+## Verständliche Formulare auf dem Amt
 
 Viele behördliche Formulare sind unklar, umständlich oder missverständlich formuliert und gestaltet. Gerade behördliche Formulare sollten möglichst einfach und 
 verständlich aufgebaut und formuliert sein, um Irrtümern vorzubeugen und Rechtssicherheit zu schaffen. Daher wünschen wir uns eine Überarbeitung der kommunalen 
 Formulare durch die Verwaltung.
 
-
-
-Die Stadt als Partner für Arbeit 
-
+## Die Stadt als Partner für Arbeit
 
 1. Pflicht einer Optionskommune: Helfen!
 
@@ -564,8 +402,7 @@ Weitere Vergünstigungen, die den städtischen Haushalt belasten würden, werden
 Haushalt zu erreichen, abwägen.
 
 
-
-Vertrauen und Erfolg durch Kompetenz
+## Vertrauen und Erfolg durch Kompetenz
 
 Wir fordern eine verbesserte Kompetenz der Arbeitsvermittler und der Sachbearbeiter, welche die Leistungen berechnen und bewilligen. Diese kann unter anderem durch 
 regelhaft unbefristete Arbeitsverträge und verbesserte Schulungen erreicht werden. 
@@ -579,16 +416,13 @@ Insbesondere beim behördlichen Kundenkontakt, im Gesundheits- und Pflegebereich
 schulen.
 
 
-
-Jugend-Arbeitslosigkeit
+## Jugend-Arbeitslosigkeit
 
 Die Zahl der Jugendlichen ohne Schulabschluss in Münster ist deutlich zu hoch, wir wollen diese Zahl nachhaltig senken.
 
 Wir wollen Projekte und Konzepte gegen Arbeitslosigkeit fördern, um insbesondere Jugendliche und Langzeitarbeitslose in den Arbeitsmarkt zu integrieren.
 
-
-
-Sichere Jobs sind unbefristet 
+## Sichere Jobs sind unbefristet
 
 Seit den Arbeitsmarktreformen von 2003 werden zunehmend prekäre, unsichere und befristete Arbeitsverträge geschlossen. Die öffentliche Verwaltung ist hier sogar 
 Vorreiter. Was auf der einen Seite aus wirtschaftlichen Gründen durchaus sinnvoll sein kann, schlägt sich jedoch auf der anderen Seite in Unzufriedenheit und 
@@ -599,21 +433,17 @@ für eine Befristung vorliegt, regelhaft unbefristet anstellt.
 
 Wir setzen uns für anonymisierte Bewerbungsverfahren ein.
 
-
-
-Lohngerechtigkeit
+## Lohngerechtigkeit
 
 Die Stadt soll in allen Bereichen gerechte Löhne und Gehälter zahlen. Auch bei der Auftragsvergabe an Dritte müssen soziale Mindeststandards beachtet werden.
 
 
-
-Ratsmitglieder Vor Interessens-Konflikten schützen!
+## Ratsmitglieder Vor Interessens-Konflikten schützen!
 
 Wir befürworten, dass Mandatsträger von Ratsparteien keinen Vorsitz in Aufsichtsräten städtischer Gesellschaften übernehmen.
 
 
-
-Kommunale Finanzen
+## Kommunale Finanzen
 
 Sichere Kommunale Einnnahmen bei minimaler Belastung
 
@@ -623,15 +453,13 @@ andererseits den Wirtschaftsstandort Münster nicht zu gefährden Durch den Schl
 Wohnungsbau-Bereich  bei hohem Einkommen für die Stadt nur minimal belastet.
 
 
-
-Kredite & Haushalt
+## Kredite & Haushalt
 
 Wir wollen einen ausgeglichenen Haushalt erreichen und ab 2020 auch Schulden abbauen. Kassenkredite wollen wir ab 2018 nicht mehr erhöhen.
 
 
 
-
-Kultur und Bildung
+## Kultur und Bildung
 
 Kultur steht für die Art und Weise, wie Menschen miteinander agieren und sich selbst ausdrücken. Dies hat für uns in einem freien, gleichberechtigten sowie sozial 
 gesicherten und gerechten Umfeld zu geschehen, welches durch die Gesellschaft zu gewährleisten ist. Dabei sollen alle Menschen die Möglichkeit haben, am öffentlichen 
@@ -643,9 +471,7 @@ selbstbestimmten Mitglied der Gesellschaft zu werden, ist unser grundsätzliches
 Deshalb setzen wir uns für ein offenes, tolerantes und vielfältiges Münster ein, welches von gutem Miteinander und gegenseitigen Respekt geprägt ist.
 
 
-
-Von klein auf unterstützen und begleiten
-
+## Von klein auf unterstützen und begleiten
 
 Kinder & Jugend
 
@@ -653,7 +479,6 @@ Wir setzen uns für eine effektive und gut ausgestattete offene Kinder- und Juge
 Bereich sind nicht tolerierbar.
 
 Wir wollen, dass die Jugendeinrichtungen in allen Stadtteilen ihre Öffnungszeiten, insbesondere auch in den Ferienzeiten, erweitern.
-
 Jugendkulturen sind immer vielfältig, etwas Eigenständiges und stehen oft in Konfrontation zu einer bestehenden Kultur der Erwachsenen. Die Kommunalpolitik sollte 
 daher Freiräume schaffen und erhalten, sodass Jugendliche ihr eigenes Lebensgefühl ausleben können. Die Lebenswelten von Jugendlichen sind im Vergleich zu früheren 
 Jahrzehnten immer mehr fremdbestimmt verplant und geregelt. Wir Piraten sehen einen dringenden und großen Handlungsbedarf, die Jugendzentren in den Stadtteilen 
@@ -661,28 +486,22 @@ zu stärken, insbesondere auch die Öffnungszeiten in den Ferien auszuweiten und
 Wohnquartier und Klientel ist es beispielsweise nicht außergewöhnlich, dass Jugendliche noch nie in einem Großkino waren. Freie Räume wie Sportanlagen und -hallen 
 sollten vermehrt zur Verfügung gestellt werden, sei es in den Ferien oder für Nachtevents.
 
-
-
-Kita-Navigator
+## Kita-Navigator
 
 Der Kita-Navigator muss weiterentwickelt werden. Sowohl Eltern als auch Kita-Leitungen sind mit der Umsetzung nicht zufrieden. Das liegt unter anderem daran, dass 
 das System bisher nur für Vormerkungen angedacht ist.
 Die eigentlichen Zielgruppen müssen intensiver in die Planungen einbezogen werden.
 
-
-
-Eltern-Initiativen
+## Eltern-Initiativen
 
 Wir unterstützen die Gründung und die Arbeit von Elternvereinen, die eine Kindertagesstätte betreiben. Die Stadt soll bei Vereinsgründungen und bei der Führung 
 einer Kindertagesstätte aktiv Hilfestellungen geben und Ressourcen zur Verfügung stellen.
 
-
-
-Kita-Trägeranteile
+## Kita-Trägeranteile
 
 Die im Kinderbildungsgesetz verankerten gesetzlichen Trägeranteile sollen grundsätzlich eingehalten werden, um zwischen den verschiedenen Trägern Chancengleichheit 
 herzustellen und den städtischen Haushalt möglichst nicht unnötig mit freiwilligen Leistungen zu belasten. Grundsätzlich sollten
-zusätzliche Gelder nur im Einzelfall und bei Vorliegen besonderer Umstände gewährt werden. 
+zusätzliche Gelder nur im Einzelfall und bei Vorliegen besonderer Umstände gewährt werden.
 
 Bei Trägerausschreibungen für Kindertageseinrichtungen sollen die Prüfkriterien der Verwaltung (Referenzen, fachliches Konzept, mögliche Synergien und 
 Wirtschaftlichkeit) ergänzt und differenziert werden. Verfolgt werden sollen drei Haupt-Ziele: bestmögliche Betreuung für die Kinder, größtmögliche Wahlfreiheit 
@@ -701,8 +520,7 @@ komplett beitragsfreie Kitas
 bieten können.
 
 
-
-Bildungsinvestitionen
+## Bildungsinvestitionen
 
 Wir wollen ein umfassendes Investitionspaket schnüren, um Lernbedingungen in Schulen und in der Stadtbücherei zu verbessern.
 
@@ -715,35 +533,30 @@ Das Budget des Medienentwicklungsplanes soll deutlich angehoben werden.
 Für alle Altersschichten wollen wir Angebote zur Förderung von Medienkompetenz vorhalten, um der Gefahr einer digitalen Spaltung zu begegnen.
 
 
-
-Open educational resources
+## Open educational resources
 
 Wir setzen uns für freie Lern- und Lehrmaterialien (Open Educational Resources) in Universitäten, Schulen und anderen Bildungseinrichtungen ein.
 
 
-
-Sprachförderung
+## Sprachförderung
 
 Sprachförderung ist für uns ein zentraler Baustein in allen Erziehungs- und Bildungseinrichtungen während aller Lebensphasen von Kindern und Jugendlichen. 
 Einen Fokus wollen wir auf den Bereich Deutsch als Zweitsprache, also der Förderung der Herkunftssprache und darauf aufbauend der sprachlichen Kompetenzen 
 im Deutschen von Schülern mit Zuwanderungsgeschichte legen.
 
 
-
-Schulsozialarbeit
+## Schulsozialarbeit
 
 Wir wollen die Schulsozialarbeit zur Unterstützung von Schulen und Familien weiter deutlich ausbauen und das Land bei der Finanzierung in die Pflicht nehmen.
 
 
-
-Musikalische Bildung
+## Musikalische Bildung
 
 Wir unterstützen das Modell Jedem Kind seine Stimme - Singende Grundschulen in Münster (JEKISS). Damit können 100 Prozent aller Grundschulkinder unabhängig vom 
 kulturellen, finanziellen oder familiären Hintergrund - mit einem elementaren Angebot musikalischer Bildung erreicht werden.
 
 
-
-Schulverpflegung  mit Maß und Sinn
+## Schulverpflegung  mit Maß und Sinn
 
 Nach Schätzung der Weltgesundheitsorganisation gehen circa ein Drittel der Schüler in Deutschland ohne Frühstück zur Schule. Die Anzahl von unter- und übergewichtigen 
 Schülern nimmt stetig zu. Dies ist nicht nur für die Betroffenen und ihre Angehörigen eine Belastung, sondern auch für die Sozialkassen. Wir setzen uns daher dafür ein, 
@@ -754,8 +567,7 @@ klein auf lernen, sich ausgewogen zu ernähren. Ein weiterer Schwerpunkt sollte 
 zu berücksichtigen und die Schüler nicht zu bevormunden.
 
 
-
-Schulen in Münster
+## Schulen in Münster
 
 Wir setzen uns ein, dass der Nachfrage nach einer zweiten städtischen Gesamtschule endlich nachgekommen wird. Grundsätzlich wollen wir die anstehenden Veränderungen 
 der Schullandschaft gemeinsam mit allen Betroffenen angehen.
@@ -772,16 +584,13 @@ ob Schulen geschlossen, zusammengelegt werden oder neu entstehen  alle Akteure
 wollen ein jährliches und offenes Bildungsforum initiieren und damit ein Mitwirkungs- und Entscheidungsrecht garantieren.
 
 
-
-PTA-Lehranstalt
+## PTA-Lehranstalt
 
 SPD, GRÜNE und FDP haben beschlossen, dass die Stadt nun für die vollständigen Kosten der PTA-Lehranstalt aufkommt. Dabei haben sie die Absicht formuliert, die Lasten 
 auf die Auszubildenden abzuwälzen, indem die Lehrgangsgebühren während der Ausbildungszeit erhöht werden. Wir lehnen diese zusätzliche Belastung der Auszubildenden ab.
 
 
-
-Gemeinsam Münster gestalten
-
+## Gemeinsam Münster gestalten
 
 Akzeptanz sexueller Vielfalt
 
@@ -791,20 +600,17 @@ im Unterricht nur freiwillig angesprochen wird und es noch für viele Lehrkräft
 ist eine Gesellschaft ohne Ausgrenzung und Homophobie, deshalb unterstützen wir Projekte der schwul-lesbischen Aufklärungsarbeit.
 
 
-
-UN-Behindertenrechtskonvention
+## UN-Behindertenrechtskonvention
 
 Wir wollen die UN-Behindertenrechtskonvention beschleunigt umsetzen. Hierzu wollen wir unter anderem die Kommission zur Inklusion von Menschen mit Behinderungen 
 stärker in die Entscheidungsprozesse einbinden.
 
 
-
-Inklusion
+## Inklusion
 
 Wir wollen Inklusion in allen Bereichen so schnell wie möglich vorantreiben.
 
 Allerdings setzen wir insbesondere bei der Umsetzung im Schulbereich einen Fokus auf die Qualität und sprechen uns gegen eine Inklusion mit der Brechstange aus.
-
 Wir nehmen die Landesregierung in die Pflicht, die die Kommunen bei der Finanzierung der notwendigen Investitionen bisher im Regen stehen lässt.
 
 Aufgrund der restriktiven Landesvorgaben bei der Mindestgröße von Schulen kommt die Stadt an Schulschließungen leider nicht vorbei. Sie dürfen aber auf keinen Fall 
@@ -816,22 +622,19 @@ Wir steuern dem bisherigen Weg der Rot-Grünen-Landesregierung, eine kalte Ink
 schlagen wir vor, dass Förderschulen zu Regelschulen ausgebaut werden.
 
 
-
-Ausbau der Inklusion
+## Ausbau der Inklusion
 
 Wir stehen für einen Ausbau der Inklusion in der Breite, das darf jedoch nicht auf Kosten der Qualität gehen. Zur Umsetzung des inklusiven Lernansatzes werden 
 flächendeckend sonderpädagogische Fachkräfte an Schulen benötigt. 
 Hierzu gehören auch Integrationskräfte, deren Qualifikationen und Arbeitsbedingungen sich deutlich verbessern müssen.
 
 
-
-Inklusion im Job
+## Inklusion im Job
 
 Wir wollen die Beschäftigungsmöglichkeiten für Menschen mit Behinderungen bei der Stadt als Arbeitgeber und bei münsterschen Unternehmen erhöhen.
 
 
-
-Münster braucht keine Barrieren
+## Münster braucht keine Barrieren
 
 Wir wollen bauliche Barrieren weitgehend vermeiden und dort, wo vorhanden, nach und nach abbauen. Es gibt noch viel zu tun auf dem Weg zu einer barrierefreien Stadt 
 Münster.
@@ -843,21 +646,18 @@ Menschen mit Behinderungen müssen umfassend und rechtzeitig an den Planungs-, A
 zur Förderung der Inklusion von Menschen mit Behinderungen (KIB) noch stärker einbinden.
 
 
-
-Kommunales Integrationszentrum
+## Kommunales Integrationszentrum
 
 Wir wollen das neue Kommunale Integrationszentrum mit seinen Schwerpunkten Antirassismus, Interkulturelle Öffnung, Erziehungs- und Bildungspartnerschaften und 
 Interkulturelle Schulentwicklung stärken und in unsere kommunalpolitische Arbeit einbeziehen.
 
 
-
-Migration
+## Migration
 
 Wir unterstützen die Migrantenselbstorganisationen dabei, strukturelle Hürden abzubauen.
 
 
-
-Flüchtlingsunterbringung
+## Flüchtlingsunterbringung
 
 Münster hat gute Erfahrungen mit in der Stadt verteilten Unterbringungen von Flüchtlingen gemacht. Wir betonen, dass auch bei einer dezentralen Unterbringung die 
 Verteilung nicht nur in Randbezirke geschehen sollte, sondern Standorte inmitten der Stadtteilzentren und gehobenen Wohnsiedlungen zur Verfügung stehen sollten. Die 
@@ -870,9 +670,7 @@ und barrierefreien Wohnungsbaus findet sich dort noch genügend freier Platz um 
 50 Menschen.
 
 
-
-Erfahrung nutzen  Senioren mehr einbinden
-
+## Erfahrung nutzen  Senioren mehr einbinden
 
 Generationenzentren
 
@@ -882,8 +680,7 @@ Versorgungseinrichtungen, wie Nahversorgung sowie Pflege- und Unterstützungsang
 und Tiefbau barrierefrei zu bauen.
 
 
-
-Gesellschaftliche Veränderungen einplanen!
+## Gesellschaftliche Veränderungen einplanen!
 
 Durch den technischen, wirtschaftlichen, sozialen und medizinischen Fortschritt steigt die Lebenserwartung der Menschen in unserer Gesellschaft immer weiter. Leider 
 werden aber auch immer weniger Kinder geboren. Dieser sogenannte Demographische Wandel birgt sowohl Chancen als auch enorme Herausforderungen. Bisher wurde nicht 
@@ -892,8 +689,7 @@ Daher fordern wir, dass der Demographische Wandel bei der Entwicklung der In
 Einkaufsmöglichkeiten, Gesundheitsversorgung und Pflege sehen wir weiteren Handlungsbedarf. 
 
 
-
-Miteinander  Füreinander!
+## Miteinander  Füreinander!
 
 Wir wünschen uns, dass ältere Menschen, die eigenständig leben, aber Probleme bei Alltagsdingen, wie dem Umgang mit dem Internet, dem Ausfüllen von behördlichen 
 Formularen oder der Auswahl des passenden Tarifs für Energie oder Telefon haben, dabei stärker unterstützt werden.
@@ -903,10 +699,7 @@ entwickeln.
 
 Wir wollen die Erfahrungen, die Vernetzung und die Hinweise der kommunalen Seniorenvertretung stärker in die politischen Entscheidungsprozesse einbinden.
 
-
-
-Kultur kommt von gemeinsam!
-
+## Kultur kommt von gemeinsam!
 
 Stadtfeste
 
@@ -920,8 +713,7 @@ werden. Falls sich die Münsteraner und die Politik für ein neues kulturelles S
 präsentiert sich seinen Jugendlichen. Verschiedene münsterische Jugendkulturen, Stadtteile, Akteure und Vereine würden ein attraktives Bürgerfest ausfüllen.
 
 
-
-Allwetterzoo Münster
+## Allwetterzoo Münster
 
 Wir plädieren dafür, dass der Allwetterzoo Münster sein Zukunftskonzept der Öffentlichkeit vorstellt und die Münsteraner an der zukünftigen Ausrichtung und Gestaltung 
 ihres Zoos beteiligt werden. Hierzu muss der Vertrag zwischen Allwetterzoo, Robbenhaven und Westfälischen Pferdemuseum veröffentlicht werden.
@@ -933,8 +725,7 @@ Wir haben die Bezahl-Was-Du-Willst-Aktion des Allwetterzoos sehr begrüßt, nich
 sondern weil sie auch auf Vertrauen gegenüber den Kunden basiert, wie man das auch bei einigen funktionierenden, neuen Bezahlmodellen im Internet erleben kann.
 
 
-
-Künstlerszene ist Kulturszene
+## Künstlerszene ist Kulturszene
 
 Wir als Münsteraner Piraten machen uns für Münsters Künstlerszene stark.
 
@@ -951,30 +742,26 @@ Wir sind dazu bereit, Fankultur, beispielsweise bei Preußen Münster, finanziel
 Stadtbücherei und ihren Zweigstellen als Akteure an, aktuelle und vergangene digitale Spiel(e)kultur zu pflegen.
 
 
-
-Repair Cafés
+## Repair Cafés
 
 Wir setzen uns dafür ein, dass die Einführung sogenannter Repair Cafés unterstützt wird. In Repair Cafés helfen sich Bürger ehrenamtlich gegenseitig bei kleineren 
 Reparaturen oder führen eigene Reparaturen in lockerer Gesellschaft aus.
 
 
-
-Bücherboxen
+## Bücherboxen
 
 Wir setzen uns dafür ein, dass in Bürgerhäusern und Bezirksverwaltungen sogenannte Bücherboxen aufgestellt werden. Bürgerinnen und Bürger können in diesen Bücherboxen 
 alte Bücher einlagern. Diese können dann kostenfrei von Interessierten entnommen werden. Dadurch möchten wir den freien Zugang zu Bildung erleichtern.
 
 
-
-Sport in Münster
+## Sport in Münster
 
 Wir fordern weiterhin die Förderung des Breitensports und betonen dabei, dass eine kommunale Finanzierung des Profisports keine städtische Aufgabe ist und wir dies 
 auch nicht mittragen würden. Gerne sind wir dazu bereit, Fankultur durch eine kommunale Finanzierung von Fanprojekten zu unterstützen.
 
 
 
-
-Regionale Entwicklung
+## Regionale Entwicklung
 
 Unser Ziel der regionalen Entwicklung ist es, die Region nachhaltig in die Lage zu versetzen, grundlegende Versorgung und Infrastruktur vor Ort selbst organisieren und 
 bereitstellen zu können. Dabei wollen wir alle Bereiche kommunaler Selbstversorgung, wie beispielsweise Wasser, Energie, Dienstleistungen, Datentransfer etc., 
@@ -1000,9 +787,7 @@ Projekte am erklärten Willen der Menschen vorbei entwickelt. Die Interessen vie
 demokratische Stadtgesellschaft kann nur durch eine Zusammenarbeit und den ergebnisoffenen Dialog aller Beteiligten erreicht werden.
 
 
-
-Bauen, Wohnen, Leben und Gestalten
-
+## Bauen, Wohnen, Leben und Gestalten
 
 Neue Wohnflächen
 
@@ -1013,16 +798,14 @@ funktionierende Strukturen und das Flair einzelner Stadtteile nicht gestört wir
 Wir sehen auch noch Möglichkeiten, Wohngebiete entlang der Hauptverkehrsachsen zu den Stadtteilen einzurichten. Der Wohnungsdruck in der Innenstadt kann gemildert 
 werden, indem die Stadtteile, Vororte und umliegende Gemeinden noch besser per ÖPNV erschlossen werden und indem alle Stadtteilzentren an Attraktivität gewinnen.
 
-
-Preisgünstiger Wohnraum
+## Preisgünstiger Wohnraum
 
 Wir unterstützen Modelle von genossenschaftlichem Bauen und Wohnen. Zudem wollen wir die Wohn- und Stadtbau GmbH stärken. Die katastrophale Wohnraumsituation können 
 wir nur mit einem Bündel von vielen verschiedenen Maßnahmen in den Griff bekommen. Beispielsweise können Stiftungen und Fonds, mit der Zweckbindung sich für 
 preisgünstigen Wohnraum zu engagieren, einen Beitrag leisten.
 
 
-
-Soziale Erhaltungssatzung
+## Soziale Erhaltungssatzung
 
 Durch Luxussanierungen werden immer mehr Menschen aus den Innenstädten in die Außenbereiche verdrängt. Wir, als Piraten in Münster, sind für die Erhaltung der 
 Zusammensetzung der Wohnbevölkerung in den Stadtteilen.
@@ -1030,8 +813,7 @@ Zusammensetzung der Wohnbevölkerung in den Stadtteilen.
 Daher werden wir uns für eine Soziale Erhaltungssatzung einsetzen, in der Gebiete bezeichnen werden, die einer Änderung oder einer Nutzungsänderung baulicher 
 Anlagen der Genehmigung bedürfen.
 
-
-Umbau des Hauptbahnhofs
+## Umbau des Hauptbahnhofs
 
 Wir befürchten, dass die gleichzeitige Schließung der beiden westlichen Bahnhofseingänge während des Neubaus zu starken Verkehrsproblemen, insbesondere zu 
 Einschränkungen für Senioren, Familien und Menschen mit Behinderungen, führen wird. Deswegen setzen wir uns dafür ein, dass während der langen Bauphase immer 
@@ -1043,7 +825,6 @@ hin, mit gutem Witterungsschutz für die Umsteiger im ÖPNV, zu den Taxen und zw
 
 Wir wollen Perspektiven entwickeln, wie wir die Fläche des ehemaligen Güterbahnhofs für die Stadtentwicklung nutzbar machen können.
 
-
 Hafenforum
 
 Die Ergebnisse des Hafenforums sind bei der Umnutzung des Osmo-Geländes unbedingt zu berücksichtigen. Eine Wohnbebauung an der Wasserkante können wir uns nicht 
@@ -1054,24 +835,21 @@ Dem Bürgerwillen, eine Osmo-Halle zu erhalten, zu entsprechen, ist wünschenswe
 einhergehenden hohen Kosten einer Sanierung, bewerten wir angebotene Alternativen pragmatisch.
 
 
-
-Oxford Kaserne
+## Oxford Kaserne
 
 Auf dem Gelände der Oxford Kaserne soll ein neues Quartier für nachhaltiges und familienfreundliches Wohnen entstehen. Wir wünschen uns, dass Bürgerengagement, 
 Bauen in der Gemeinschaft und umweltbewusstes Leben in diesem Viertel groß geschrieben werden. Das Wohngebiet soll verkehrsberuhigt und in großen Teilen autofrei 
 sein. Bei der Planung der Infrastruktur sind die Auswirkungen auf die bestehenden Strukturen in Gievenbeck und Roxel zu berücksichtigen.
 
 
-
-Shared space
+## Shared space
 
 Bei der Planung neuer Wohngebiete und Sanierungen bestehender Straßen in Wohngebieten wollen wir grundsätzlich größere Kreuzungsbereiche so gestalten, dass Plätze 
 mit Aufenthaltsqualität entstehen. Diese sollen ähnlich dem Konzept des shared space  gemeinsam genutzer Raum  geplant werden und durch Gestaltung einen Raum 
 öffnen, wo Verkehr beruhigt wird und je nach Platzangebot auch Raum zum Verweilen einlädt.
 
 
-
-Straßenverkehr => gemeinsam vorwärts kommen
+## Straßenverkehr => gemeinsam vorwärts kommen
 
 
 Elektromobilität
@@ -1084,9 +862,7 @@ reserviert werden und dass sie die Erlaubnis zur Nutzung der Busspur haben.
 
 Der Ausbau der elektrisch getriebenen Fahrzeugflotte der Stadtwerke und die Ausweitung des Netzes von Ladestationen im Stadtgebiet müssen konsequent fortgesetzt werden. Die Realisierung des Konzepts Laternentankstelle als günstige Variante des Ladeterminals ist in Angriff zu nehmen, da ein großer Teil der Bevölkerung nicht über eine Garage mit Stromversorgung verfügt.
 
-
-
-ÖPNV
+## ÖPNV
 
 Ein engmaschiges Netz von Verkehrslinien sowie eine häufige Bedienung der Haltestellen ist die Grundlage für einen attraktiven öffentlichen Personennahverkehr. 
 Wir setzen uns deshalb dafür ein, dass das Nahverkehrsnetz in Münster und der Region konsequent fortentwickelt wird. 
@@ -1099,17 +875,14 @@ Langfristig wollen wir Piraten die Umsetzung des fahrscheinlosen ÖPNV erreichen
 
 Wir setzen uns für eine bessere Taktung der Buslinien ein und wollen die Linienführung optimieren. Kinder sollen immer gratis Busfahren können.
 
-
-
-Möglichkeiten sichern  Wege freihalten
+## Möglichkeiten sichern  Wege freihalten
 
 Wir setzen uns dafür ein, den Bahnübergang Galgenheide im Ortsteil Mecklenbeck zu erhalten. Der Bahnübergang Galgenheide hat einen hohen Stellenwert für 
 Freizeit-Radfahrer und Spaziergänger. Außerdem stellt er eine wichtige Fuß- und Radweg-Querung über die Bahnstrecke für Bürgerinnen und Bürger dar, die aus 
 Richtung Brillux, Fritz-Stricker-Straße und Dingbänger Weg kommen.
 
 
-
-Fließender Verkehr
+## Fließender Verkehr
 
 Wir setzen uns für einen besser fließenden Verkehr durch intelligentere Ampeln oder andere alternative Verkehrsflussregelungen ein. Bei der Umsetzung dieser 
 Konzepte sollen aktuelle Forschungsergebnisse und Studien herangezogen werden, um die besten Lösungen zu ermitteln.
@@ -1118,8 +891,7 @@ Seit Kurzem gibt es für alle innerstädtischen Straßen eine Geschwindigkeitsbe
 Geschwindigkeitsreduzierungen ab. Auf Teilen der Umgehungsstraße sollte die bisherige Begrenzung auf 70 km/h beibehalten werden.
 
 
-
-Stop & Go vermeiden 
+## Stop & Go vermeiden 
 
 Wir wollen die weitgehende Deregulierung von Verkehrsströmen. Im Einzelnen bedeutet dies:
 
@@ -1135,9 +907,7 @@ kurz an.
 
 Generell sehen wir Ampelanlagen als Mittel zum Interessenausgleich zwischen verschiedenen Verkehrsteilnehmern.
 
-
-
-Mit dem Rad unterwegs
+## Mit dem Rad unterwegs
 
 Da die Straßenverkehrsordnung eine Nutzungspflicht für Radwege vorsieht, halten wir diese Wege nur für sinnvoll, wenn der Geschwindigkeitsunterschied zwischen 
 motorisiertem und Fahrradverkehr erheblich oder das Verkehrsaufkommen hoch ist. Üblicherweise gilt dies an Hauptverkehrsstraßen oder an Straßen mit mehr als 
@@ -1149,8 +919,7 @@ und Wege in Naherholungsgebieten als solche Hauptachsen zu verwenden. Die dadurc
 für alle Verkehrsteilnehmer.
 
 
-
-Mobil in die Zukunft  Alle Optionen nutzen!
+## Mobil in die Zukunft  Alle Optionen nutzen!
 
 Verkehr weg von der Straße - hin zur Bahn! Dies wird seit 40 Jahren gefordert, leider ging im gleichen Zeitraum die Entwicklung in die entgegengesetzte Richtung.
 
@@ -1164,8 +933,7 @@ Langfristig sollte die Entwicklung eines S-Bahn-Systems geplant und umgesetzt we
 Parallel laufende Busverbindungen sollten entsprechend reduziert werden.
 
 
-
-LED-Straßenbeleuchtung
+## LED-Straßenbeleuchtung
 
 Die Straßenbeleuchtung bietet ein hohes Energieeinsparpotential. Wir möchten dieses Potential möglichst schnell nutzen, da dies langfristig die kommunalen Finanzen 
 entlastet. Wir plädieren dabei für eine schrittweise Auf- und Umrüstung der Straßenbeleuchtung auf moderne, stromsparende LED-Technik.
@@ -1177,8 +945,7 @@ gedimmt, kehrt aber zur normalen Helligkeit zurück, sobald sich ein Verkehrstei
 Zudem muss ein langfristiges Konzept erarbeitet werden, welches störendes Licht, die sogenannte Lichtverschmutzung 	 in der Stadt wesentlich reduziert.
 
 
-
-Freier Internetfunk
+## Freier Internetfunk
 
 Die Piraten setzen sich dafür ein, dass die Stadt Münster den Aufbau eines stadtweiten, unentgeltlichen und werbefreien WLANs fördert. Die WLAN-Infrastruktur soll 
 langfristig flächendeckend und nachhaltig aufgebaut werden. Die Gebiete der Innenstadt und sogenannte soziale Brennpunkte sollen hierbei eine höhere Priorität 
@@ -1198,9 +965,7 @@ beteiligen und zusätzlich ihre Internetzugänge zur Verfügung stellen.
 
 
 
-
-Um-welt bedeutet mitten drin sein
-
+## Um-welt bedeutet mitten drin sein
 
 Grüne Flächen mit Konzept
 
@@ -1219,20 +984,17 @@ Neue Pflanzkonzepte bestehen auf jeweils Standort abgestimmte Artenkombinationen
 Bepflanzungen, wie bodendeckender Gehölzpflanzung, aufwändiger Wechselbepflanzung oder Rasenflächen durchaus überlegen.
 
 
-
-Energieautarke Stadt
+## Energieautarke Stadt
 
 Perspektivisch soll Münster eine energieautarke Stadt werden. Ab spätestens 2020 sollen die Stadtwerke auf Strom aus Atomkraftwerken nicht mehr zurückgreifen, 
 zudem sollen sie auch keinen Strom aus Steinkohle- und Braunkohlekraftwerken beziehen.
 
 Wir fordern verstärkt kommunale Bürgerenergieanlagen  Stichwort: dezentrale Energieversorgung  zu fördern bzw. deren Einrichtung zu unterstützen.
-
 Die Bürger sollen hierbei durch entsprechende Finanzierungs- und Mitsprachemodelle eingebunden werden.
 
 
 
-
-Kein Fracking!
+## Kein Fracking!
 
 Wir lehnen jegliche Form des Frackings zur Gewinnung von fossilen Energieträgern ab.
 
@@ -1246,25 +1008,20 @@ des Münsterlandes als Naherholungsgebiet und die Wohnqualität massiv beeinträ
 
 Wir sprechen uns daher gegen den Einsatz von Fracking aus und setzen uns dafür ein, Fracking mit allen legalen Mitteln zu verhindern.
 
-
-
-Solarenergie
+## Solarenergie
 
 Die Solarenergie spielt für uns eine besondere Rolle. Wir fordern, die Dachflächen öffentlicher Gebäude nach einer Wirtschaftlichkeitsprüfung konsequent für die 
 Energiegewinnung zu nutzen oder, gegen geringe Pacht, diese Flächen für Bürgerenergieanlagen zur Verfügung zu stellen.
 
 
 
-
-Windenergie
+## Windenergie
 
 Die Windenergie ist eine der Schlüsseltechnologien zur Umstellung der Energieproduktion. Wir befürworten den Ausbau, stellen ihn jedoch auch unter klare Bedingungen. 
 Aus Lärmschutzgründen müssen Mindestabstände zu Siedlungsgebieten streng eingehalten werden.
 
 
-
-Keine Gesellschaft ohne Vertrauen
-
+## Keine Gesellschaft ohne Vertrauen
 
 Vertrauen statt Überwachung
 
@@ -1274,16 +1031,14 @@ Rahmenbedingungen, zeitlich begrenzt in Erwägung gezogen werden.
 Dies ist dann der Fall, wenn im Überwachungsbereich bereits mehrfach schwerwiegende Straftaten verzeichnet wurden. Dabei darf dann auch nur ein enger Bereich 
 überwacht werden. Diese Aufnahmen dürfen nur mit richterlichem Beschluss ausgewertet werden. Andernfalls müssen diese Daten spätestens nach 72 Stunden gelöscht werden.
 
-
-Staatliches Gewaltmonopol erhalten!
+## Staatliches Gewaltmonopol erhalten!
 
 Wir fordern, dass die streifendienstlichen Tätigkeiten der Polizei auch weiterhin durch diese erfolgen. Den Einsatz von privaten Hilfskräften lehnen wir ab. Maßnahmen 
 des Ordnungsamtes sollen nicht durch private Unternehmen durchgeführt werden.
 
 
 
-
-Erklären statt verbieten
+## Erklären statt verbieten
 
 Wir setzen uns für Versammlungsfreiheit und eine vielfältige und freie Nutzung des öffentlichen Raums ein. Wir lehnen jegliche Regelungen ab, die diese unnötig 
 einschränken.
@@ -1292,15 +1047,13 @@ Statt
 Bevormundung fordern wir bereits im Vorfeld eine verantwortungsbewusste Aufklärungsarbeit zu leisten.
 
 
-
-Die Marke Münsterland stärken
+## Die Marke Münsterland stärken
 
 Wir unterstützen grundsätzlich den Verein Münsterland e. V., auf eine doppelte Geschäftsführung muss er aber verzichten.
 
 
 
-
-Impressum
+## Impressum
 
 V. i. S. d. P.:
 Sebastian Kroos
