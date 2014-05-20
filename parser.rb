@@ -18,7 +18,7 @@ Dir.foreach(CONVERTED_DIR) do |file|
   chapters = []
   title, text = nil, ''
   File.readlines(File.join(CONVERTED_DIR, file)).each do |line|
-    if line =~ /\A\s*#+(.+)\Z/
+    if line =~ /^##[^#](.+)/
       chapters << [title, text] unless title.nil?
 
       title = $1.strip
@@ -36,7 +36,7 @@ Dir.foreach(CONVERTED_DIR) do |file|
   puts "Adding #{chapters.size} #{party} chapters to Elasticsearch"
 
   chapters.each_with_index do |(title, text), i|
-    puts "chapter #{title}"
+    puts "chapter #{i+1}: #{title}"
     client.index index: INDEX_NAME, type: 'chapter', body: { party: party, position: i+1, title: title, text: text }
   end
 end
