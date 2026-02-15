@@ -1,3 +1,3 @@
 source 'https://rubygems.org'
 
-gem 'elasticsearch'
+gem 'elasticsearch', '>= 1.0.2'
